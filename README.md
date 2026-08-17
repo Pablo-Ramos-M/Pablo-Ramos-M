@@ -107,7 +107,7 @@ Uso de IA para resolución de problemas, optimización de tareas y asistencia en
 
 ## 🌐 Encontrame también en
 
-- 💼 LinkedIn: Pablo Ramos Mountford(www.linkedin.com/in/pablo-ramos-mountford-5767a93a8)
+- 💼 LinkedIn: <p align="center"><a href="https://www.linkedin.com/in/pablo-ramos-mountford-5767a93a8" target="_blank">Pablo Ramos Mountford(www.linkedin.com/in/pablo-ramos-mountford-5767a93a8)</p>
 - ✉️ Email: pabloramosmd@gmail.com
 
 ---
