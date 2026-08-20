@@ -93,18 +93,6 @@ Uso de IA para resolución de problemas, optimización de tareas y asistencia en
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablo-Ramos-M&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-Ramos-M" />
-</p>
-
----
-
 ## 🌐 Encontrame también en
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/pablo-ramos-mountford-5767a93a8" target="_blank">Pablo Ramos Mountford
@@ -112,4 +100,4 @@ Uso de IA para resolución de problemas, optimización de tareas y asistencia en
 
 ---
 
-<p align="center"><i>Última actualización: 17/08/2026</i></p>
+<p align="center"><i>Última actualización: 20/08/2026</i></p>
